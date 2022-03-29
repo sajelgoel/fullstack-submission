@@ -16,3 +16,9 @@ https://www.websequencediagrams.com/cgi-bin/cdraw?lz=YnJvd3Nlci0-c2VydmVyOiBIVFR
 
 https://www.websequencediagrams.com/cgi-bin/cdraw?lz=Cgpicm93c2VyLT5zZXJ2ZXI6IEhUVFAgR0VUIGh0dHBzOi8vc3R1ZGllcy5jcy5oZWxzaW5raS5maS9leGFtcGxlYXBwL3NwYQoAOQYtLT4ASgc6IEhUTUwtY29kZQAfRW1haW4uY3NzAFYTABIJAIE7EQCBFi0uagBJFAASBwpub3RlIG92ZXIgAIFZCACCMwggc3RhcnRzIGV4ZWN1dGluZyBqcwCBcgZ0aGF0IHJlcXVlc3RzIEpTT04gZGF0YSBmcm9tIACCagYgCmVuZCBub3RlAIJFRmRhdGEuanNvbgCCfhNbeyBjb250ZW50OiAiSFRNTCBpcyBlYXN5IiwgZGF0ZTogIjIwMTktMDUtMjMiIH0sIC4uLl0AgV4dAIFuBmVzIHRoZSBldmVudCBoYW5kbGVyAIF1CG5kZXJzAIFcBXMgdG8gZGlzcGxheQCBawsAgkYTdXNlciBmaWxsAIIpBmluIGZvcm0gYW5kIHByZXNzIHN1Ym1pdCBidXR0b24ALh4AgzMFaXMgcHVzaGVkIHRvAIEFB2FycmF5AE4FbGlzdCBpcyByZS0AgSkGZWQgb24gVUkAgnohUE9TAIV7LG5ld19ub3RlXwCGGhZ7bWVzc2FnZTogIgCEaAVjcmVhdGVkIn0&s=default
 
+
+# part 1
+
+## 1.1 - 1.5 : courseinfo : https://github.com/sajelgoel/fullstack-submission/tree/courseinfo (branch course info)
+## 1.6 - 1.11 : unicafe : https://github.com/sajelgoel/fullstack-submission/tree/unicafe (branch unicafe)
+## 1.12-1.14 : anecdotes : https://github.com/sajelgoel/fullstack-submission/tree/anecdotes (branch anecdotes)
