@@ -25,5 +25,5 @@ https://www.websequencediagrams.com/cgi-bin/cdraw?lz=Cgpicm93c2VyLT5zZXJ2ZXI6IEh
 
 # part 2
 
-## 2.1 - 2.5 : https://github.com/sajelgoel/fullstack-submission/tree/2.1-2.5
-## 2.6 - 2.20 : phonebook : https://github.com/sajelgoel/fullstack-submission/tree/phonebook
+## 2.1 - 2.5 : https://github.com/sajelgoel/fullstack-submission/tree/2.1-2.5 (branch 2.1-2.5)
+## 2.6 - 2.20 : phonebook : https://github.com/sajelgoel/fullstack-submission/tree/phonebook (branch phonebook)
