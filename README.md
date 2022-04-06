@@ -22,3 +22,8 @@ https://www.websequencediagrams.com/cgi-bin/cdraw?lz=Cgpicm93c2VyLT5zZXJ2ZXI6IEh
 ## 1.1 - 1.5 : courseinfo : https://github.com/sajelgoel/fullstack-submission/tree/courseinfo (branch course info)
 ## 1.6 - 1.11 : unicafe : https://github.com/sajelgoel/fullstack-submission/tree/unicafe (branch unicafe)
 ## 1.12-1.14 : anecdotes : https://github.com/sajelgoel/fullstack-submission/tree/anecdotes (branch anecdotes)
+
+# part 2
+
+## 2.1 - 2.5 : https://github.com/sajelgoel/fullstack-submission/tree/2.1-2.5
+## 2.6 - 2.20 : phonebook : https://github.com/sajelgoel/fullstack-submission/tree/phonebook
