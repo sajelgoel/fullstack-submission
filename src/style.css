@@ -1,0 +1,17 @@
+.error{
+    background-color: grey;
+    color: red;
+    border: solid red 1px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 1.3rem;
+}
+
+.success{
+    background-color: grey;
+    color: green;
+    border: solid green 1px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 1.3rem;
+}
